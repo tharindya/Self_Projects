@@ -9,10 +9,10 @@ public class MainClass {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Student student1 = new Student("pakaya", 5, "paka@gamail.com", 5.5);
-		Student student2 = new Student("ponnaya", 6, "ponni@gamail.com", 9.5);
-		Student student3 = new Student("kariya", 74, "kari@gamail.com", 4.2);
-		Student student4 = new Student("wesi", 34, "wesa@gamail.com", 7.1);
+		Student student1 = new Student("Jade", 5, "jaedq12@gamail.com", 5.5);
+		Student student2 = new Student("max black", 6, "maxx@gamail.com", 9.5);
+		Student student3 = new Student("stephen thompson", 74, "stson@gamail.com", 4.2);
+		Student student4 = new Student("Giger calson", 34, "gcalso@gamail.com", 7.1);
 
 		Student[] studentArray = {student1, student2, student3, student4};
 		
