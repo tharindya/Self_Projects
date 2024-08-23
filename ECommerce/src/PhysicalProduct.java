@@ -1,10 +1,7 @@
 /* 
  * File name: PhysicalProduct.java
  * Author: Tharindya Anjalika
- * Course: CST8132 – OOP
- * Assignment: Lab 5
  * Date: 09/07/2024
- * Professor: Islam Gomaa
  * Purpose: Understand and implement the concept of polymorphism
  */
 public class PhysicalProduct extends Product{
