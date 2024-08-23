@@ -3,9 +3,6 @@ package location;
 /**
  * File name: Location.java
  * @author anjad
- * Course: CST8284-302
- * Term: Spring2024
- * Assignment: Assignment 1
  * Date: 6/9/2024
  * Purpose: purpose of this class is to get the values for variables and do the calculation to get the distance for two places
  */
