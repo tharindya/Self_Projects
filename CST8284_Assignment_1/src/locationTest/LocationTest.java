@@ -3,9 +3,6 @@ import location.Location;
 /**
  * File name: LocationTest.java
  * @author anjad
- * Course: CST8284-302
- * Term: Spring2024
- * Assignment: Assignment 1
  * Date: 6/9/2024
  * Purpose: The values for each variable is set in here and the arrays are set here to store the data 
  */
